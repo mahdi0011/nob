@@ -102,18 +102,12 @@ function create_config( )
     "Tools",
     "Write"
 	},
-    sudo_users = {377450049},
+    sudo_users = {292468367},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[» MaTaDoR v5.2
-		
-		»Sudo BoT :
-		» @MahDiRoO
-		
-        
-		v5 https://github.com/MaTaDoRrOo/MaTaDoR
-GoOd luck ;))
+    info_text = [[ ربات انتی اسپم گت پاور 
+		از ربات لذت ببرید
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
