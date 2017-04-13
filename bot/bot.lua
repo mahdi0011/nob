@@ -99,6 +99,11 @@ function create_config( )
     "Report",
     "Rmsg",
     "Time",
+    "logo",
+    "update",
+    "warn",
+    "github",
+    "aparat",
     "Tools",
     "Write"
 	},
